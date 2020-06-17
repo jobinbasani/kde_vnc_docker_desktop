@@ -1,4 +1,4 @@
-FROM msjpq/kde-vnc:bionic
+FROM msjpq/kde-vnc:focal
 
 ENV DEBIAN_FRONTEND noninteractive
 
